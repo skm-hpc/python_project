@@ -1,2 +1,2 @@
 # python_project
-All Python related project code 
+All Python-related projects code 
